@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/sid321axn/gold-price-prediction-dataset
+as it contains a lot of characters that github can't permit
